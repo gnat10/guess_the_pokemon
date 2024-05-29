@@ -32,10 +32,5 @@ I'd like to have a highscore tracker as well as making so that the user have lim
 
 ### Acknowledgement
 - Pokemon sprites are from https://projectpokemon.org/
+- Pokemon name list is mainly from https://github.com/19th/pokemon-list/tree/main
 - All the Pokemon names, images and sounds are copyrighted by Nintendo.
-
-###
-
-###
-
-###
