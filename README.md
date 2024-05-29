@@ -26,7 +26,9 @@ Run the script
 python main.py
 ```
 This will run the program!
-
+### Known Bug
+- Sometimes, the "Correct" and "Incorrect" line don't disappear after each guess
+  
 ### What's Next
 I'd like to have a highscore tracker as well as making so that the user have limited lives to guess. It will be great to have the pokemon sprites turned into silhouettes first and reveal it after guessing correctly like in the anime. I also would like to add options to choose which gen the pokemon that we can guess.
 
