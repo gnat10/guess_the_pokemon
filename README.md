@@ -1,7 +1,11 @@
 ![guess_the_pokemon](https://github.com/gnat10/guess_the_pokemon/assets/171052837/fcd1a8b0-b0ce-4104-978c-2a849d05293c)
 ### A Pokemon Guessing Game
 Guess the Pokemon, A fun project for me to learn about getting images from a website and showing it to the user. It's a guessing game that let user guess the name of a random pokemon shown on the screen. With this program I learned to create a GUI specifically canvas in Tkinter for easy use and play. I also added a hint function that if the user is stuck, they can use hint to move to the next pokemon.
-
+### How It Works
+- The user will press start
+- The program will get a random pokemon sprite from a website
+- The user will attempt to guess the pokemon
+- When the user is correct, the program will delete the previous sprite and get a new random sprite again
 ### Demo
 https://github.com/gnat10/guess_the_pokemon/assets/171052837/452e8fd2-85f7-4e96-81e1-651581fb8082
 ### Requirements and Usage
